@@ -1,8 +1,11 @@
 {
-  "posts": [
+"posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": 1020836407,
+      "title": "Post 1",
+      "etiqueta" : "prioritario",
+      "plan": "complementario"
+      
     },
 {"CODIGO":"17996-1","DESCRIPCION":"3 GEL Caja Sachet x 20 x 10ml","ABREVIATURA":"DROPESAC","NOM LABORATORIO":"Laboratorio Dropesac","FECHA VIGENCIA":"2020-02-20","PVF":"60","PPS":"0"},
 {"CODIGO":"17996-1","DESCRIPCION":"3-A OFTENO 0.1% Env. x 5ml","ABREVIATURA":"SOPHIA","NOM LABORATORIO":"(Ver LABORATORIOS OFTALMICOS S.A.C.)","FECHA VIGENCIA":"2020-02-20","PVF":"104.92","PPS":"139.54"},
