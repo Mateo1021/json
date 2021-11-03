@@ -4,7 +4,8 @@
       "id": 1020836407,
       "title": "Post 1",
       "etiqueta" : "prioritario",
-      "plan": "complementario"
+      "contratante": "famisanar",
+      "estado": "pendiente" 
       
     },
 {"CODIGO":"17996-1","DESCRIPCION":"3 GEL Caja Sachet x 20 x 10ml","ABREVIATURA":"DROPESAC","NOM LABORATORIO":"Laboratorio Dropesac","FECHA VIGENCIA":"2020-02-20","PVF":"60","PPS":"0"},
