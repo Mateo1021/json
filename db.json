@@ -1,166 +1,41 @@
 {
-"posts": [
- {
-      "age_range": 1,
-      "item": 1,
-      "question": "Realiza reflejo de búsqueda y reflejo de succión",
-      "component": "MOTRICIDAD_GRUESA"
+"initial_item": 22,
+"Questions": [
+  {
+        "age_range": 1,
+        "item": 1,
+        "question": "Realiza reflejo de búsqueda y reflejo de succión",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "age_range": 1,
-      "item": 1,
-      "question": "Reflejo de prensión palmar.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
+        "age_range": 1,
+        "item": 2,
+        "question": "El reflejo de moro está presente y es simétrico",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "age_range": 1,
-      "item": 1,
-      "question": "Se sobresalta con un ruido.",
-      "component": "AUDICIÓN_LENGUAJE"
+        "age_range": 1,
+        "item": 3,
+        "question": "Mueve sus extremidades.",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "age_range": 1,
-      "item": 1,
-      "question": "Se tranquiliza cuando se toma entre los brazos.",
-      "component": "PERSONAL_SOCIAL"
+        "age_range": 2,
+        "item": 4,
+        "question": "Sostiene la cabeza al levantarlo de los brazos.",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "age_range": 1,
-      "item": 2,
-      "question": "El reflejo de moro está presente y es simétrico",
-      "component": "MOTRICIDAD_GRUESA"
+        "age_range": 2,
+        "item": 5,
+        "question": "Levanta la cabeza y pecho en prono.",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "age_range": 1,
-      "item": 2,
-      "question": "Reacciona ante luz y sonidos.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 1,
-      "item": 2,
-      "question": "Contempla momentáneamente a una persona.",
-      "component": "AUDICIÓN_LENGUAJE"
-    },
-    {
-      "age_range": 1,
-      "item": 2,
-      "question": "Responde a las caricias.",
-      "component": "PERSONAL_SOCIAL"
-    },
-    {
-      "age_range": 1,
-      "item": 3,
-      "question": "Mueve sus extremidades.",
-      "component": "MOTRICIDAD_GRUESA"
-    },
-    {
-      "age_range": 1,
-      "item": 3,
-      "question": "Sigue movimiento horizontal.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 1,
-      "item": 3,
-      "question": "Llora para expresar necesidades.",
-      "component": "AUDICIÓN_LENGUAJE"
-    },
-    {
-      "age_range": 1,
-      "item": 3,
-      "question": "El bebé ya está registrado.",
-      "component": "PERSONAL_SOCIAL"
-    },
-    {
-      "age_range": 2,
-      "item": 4,
-      "question": "Sostiene la cabeza al levantarlo de los brazos.",
-      "component": "MOTRICIDAD_GRUESA"
-    },
-    {
-      "age_range": 2,
-      "item": 4,
-      "question": "Abre y mira sus manos.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 4,
-      "question": "Abre y mira sus manos.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 4,
-      "question": "Se tranquiliza con la voz humana.",
-      "component": "AUDICIÓN_LENGUAJE"
-    },
-    {
-      "age_range": 2,
-      "item": 4,
-      "question": "Reconoce la voz del cuidador principal.",
-      "component": "PERSONAL_SOCIAL"
-    },
-    {
-      "age_range": 2,
-      "item": 5,
-      "question": "Levanta la cabeza y pecho en prono.",
-      "component": "MOTRICIDAD_GRUESA"
-    },
-    {
-      "age_range": 2,
-      "item": 5,
-      "question": "Sostiene objeto en la mano.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 5,
-      "question": "Sostiene objeto en la mano.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 5,
-      "question": "Produce sonidos guturales indiferenciados.",
-      "component": "AUDICIÓN_LENGUAJE"
-    },
-    {
-      "age_range": 2,
-      "item": 5,
-      "question": "Sonrisa social.",
-      "component": "PERSONAL_SOCIAL"
-    },
-    {
-      "age_range": 2,
-      "item": 6,
-      "question": "Gira la cabeza desde la línea media.",
-      "component": "MOTRICIDAD_GRUESA"
-    },
-    {
-      "age_range": 2,
-      "item": 6,
-      "question": "Se lleva un objeto a la boca.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 6,
-      "question": "Se lleva un objeto a la boca.",
-      "component": "MOTRICIDAD_FINOADAPTATIVA"
-    },
-    {
-      "age_range": 2,
-      "item": 6,
-      "question": "Busca el sonido con la mirada.",
-      "component": "AUDICIÓN_LENGUAJE"
-    },
-    {
-      "age_range": 2,
-      "item": 6,
-      "question": "Responde a una conversación.",
-      "component": "PERSONAL_SOCIAL"
+        "age_range": 2,
+        "item": 6,
+        "question": "Gira la cabeza desde la línea media.",
+        "component": "MOTRICIDAD_GRUESA"
     }
 ]
 }
