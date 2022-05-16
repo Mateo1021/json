@@ -73,7 +73,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Eduardo Peña",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -87,7 +87,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Eduardo Peña",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -101,7 +101,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Eduardo Peña",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -115,7 +115,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Eduardo Peña",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -129,7 +129,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Eduardo Peña",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -143,7 +143,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Camila infanteL",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -157,7 +157,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Camila infante",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -171,7 +171,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Camila infante",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -185,7 +185,7 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Camila infante",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -199,7 +199,35 @@
 },{
             "patient": "327149",
             "document_number": "TI,1032876652  ",
-            "patient_name": "CHACON GUZMAN DANIEL",
+            "patient_name": "Camila infante",
+            "age": "17 AÑO(S) ",
+            "stay": "220500420",
+            "hc": "1032876652",
+            "cod_service": "H010    ",
+            "nom_service": "DECIMO PISO HOSPITALIZACIÓN",
+            "current_bed": "1005    ",
+            "cod_medical": "32795622     ",
+            "medical": "REYES SAAVEDRA SILVANA",
+            "possible_release_date": "03/05/2022",
+            "pre_alta_date": "09/05/2022"
+},{
+            "patient": "327149",
+            "document_number": "TI,1032876652  ",
+            "patient_name": "Mateop peña ASAD",
+            "age": "17 AÑO(S) ",
+            "stay": "220500420",
+            "hc": "1032876652",
+            "cod_service": "H010    ",
+            "nom_service": "DECIMO PISO HOSPITALIZACIÓN",
+            "current_bed": "1005    ",
+            "cod_medical": "32795622     ",
+            "medical": "REYES SAAVEDRA SILVANA",
+            "possible_release_date": "03/05/2022",
+            "pre_alta_date": "09/05/2022"
+},{
+            "patient": "327149",
+            "document_number": "TI,1032876652  ",
+            "patient_name": "Mateop peña ASAD",
             "age": "17 AÑO(S) ",
             "stay": "220500420",
             "hc": "1032876652",
@@ -211,5 +239,6 @@
             "possible_release_date": "03/05/2022",
             "pre_alta_date": "09/05/2022"
 }
+      
 ]
 }
