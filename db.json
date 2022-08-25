@@ -60,6 +60,21 @@
             "product_link":"https://flipcat-prod.s3.amazonaws.com/flipcat-store/20220531043235/Chata Prueb 2.jpg*https://flipcat-prod.s3.amazonaws.com/flipcat-store/20220531043235/Chata Prueb 2.jpg*https://cpsupremo.com/wp-content/uploads/2020/03/CHATAS1.jpg",
             "category_link":""
 },
+{           
+            "category":"Res",
+            "code":"1090",
+            "product_name":"carne molida",
+            "web_name":"carne molida",
+            "web_description":"Corte fino de la res, tierno y jugoso, con una capa degrasa que lo hace especial para los asados, abierto en mariposa",
+            "portion":"Filete",
+            "quantity_portion":"2;3;4",
+            "normal_price":"18.000",
+            "offer":"NO",
+            "discount_price":"NA",
+            "percentagle_offer":"NA",
+            "product_link": "https://flipcat-prod.s3.amazonaws.com/flipcat-store/20220531043235/Chata Prueb 2.jpg*https://flipcat-prod.s3.amazonaws.com/flipcat-store/20220531043235/Chata Prueb 2.jpg*https://cpsupremo.com/wp-content/uploads/2020/03/CHATAS1.jpg",
+            "category_link":""
+},
 {
             "category":"Complementarios",
             "code":"1011",
