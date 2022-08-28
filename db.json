@@ -1,21 +1,6 @@
 {
    "info": [
     {
-        "category": "NA",
-        "code": "666666",
-        "product_name": "NA",
-        "web_name": "NA",
-        "web_description": "NA",
-        "portion": "NA",
-        "quantity_portion": "NA",
-        "normal_price": null,
-        "offer": "NA",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/bimbotenderos/takis_prueba_origi.png*https://cariai.com/img/bimbotenderos/takis_prueba_origi.png*https://cariai.com/img/bimbotenderos/takis_prueba_origi.png",
-        "category_link": "NA"
-    },
-    {
         "category": "Complementarios",
         "code": "2014921",
         "product_name": "Guacamole",
