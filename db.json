@@ -106,21 +106,6 @@
         "category_link": "NA"
     },
     {
-        "category": "Pollo",
-        "code": "2000090",
-        "product_name": "Super Muslos",
-        "web_name": "Super Muslos Friko Congelados Kg - Bandeja",
-        "web_description": "Bandeja con 8 unidades congeladas Kg",
-        "portion": "Peso superiosr a 1.000 grms",
-        "quantity_portion": "Bandeja",
-        "normal_price": "13.400",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/200090SuperMuslos.jpg",
-        "category_link": "NA"
-    },
-    {
         "category": "Carnes Ranchera",
         "code": "1045162",
         "product_name": "Solomito",
@@ -151,21 +136,6 @@
         "category_link": "NA"
     },
     {
-        "category": "Carnes Ranchera",
-        "code": "1045157",
-        "product_name": "Colita de Cuadril",
-        "web_name": "Colita de Cuadril Ranchera",
-        "web_description": "Corte muscular con forma de cono, cubierto parcialmente de grasa que le da jugosidad y excelente sab",
-        "portion": "Peso variable",
-        "quantity_portion": "Entera",
-        "normal_price": "36.300",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/1045157ColitadeCuadril.jpg",
-        "category_link": "NA"
-    },
-    {
         "category": "Cerdo",
         "code": "1000979",
         "product_name": "Solomito Entero",
@@ -189,21 +159,6 @@
         "portion": "Entera",
         "quantity_portion": "Entera",
         "normal_price": "88.800",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/1000140CanonEntero.jpg",
-        "category_link": "NA"
-    },
-    {
-        "category": "Cerdo",
-        "code": "1000140",
-        "product_name": "Cañon",
-        "web_name": "Cañon Bloque x 2 Lbs aprox",
-        "web_description": "Producto proveniente del lomo de cerdo.",
-        "portion": "Bloque x 2 lib aprox",
-        "quantity_portion": "Bloque",
-        "normal_price": "22.200",
         "offer": "NO",
         "discount_price": null,
         "percentagle_offer": "0%",
@@ -238,21 +193,6 @@
         "discount_price": null,
         "percentagle_offer": "0%",
         "product_link": "https://cariai.com/img/tecnicarnes/2003853Higado.jpg",
-        "category_link": "NA"
-    },
-    {
-        "category": "Res",
-        "code": "2000105",
-        "product_name": "Mondongo",
-        "web_name": "Mondongo Res Empacado al Vacío x 500 grms aprox",
-        "web_description": "Mondongo Res",
-        "portion": "Paquete por 500 grms aprox",
-        "quantity_portion": "NA",
-        "normal_price": "9.425",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/2000105Mondongo.jpg",
         "category_link": "NA"
     }
 ]
