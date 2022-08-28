@@ -46,21 +46,6 @@
         "category_link": "NA"
     },
     {
-        "category": "Complementarios",
-        "code": "1034385",
-        "product_name": "Arveja Con Zanahoria",
-        "web_name": "Arveja con Zanahoria Zenú por 180 grms",
-        "web_description": "Albóndigas en Salsa Zenú por 162 grms",
-        "portion": "NA",
-        "quantity_portion": "NA",
-        "normal_price": "2.200",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/1034385ArvejaconZanahoria.jpg",
-        "category_link": "NA"
-    },
-    {
         "category": "Pescado",
         "code": "1051060",
         "product_name": "Salmón Asiatico",
@@ -88,21 +73,6 @@
         "discount_price": null,
         "percentagle_offer": "0%",
         "product_link": "https://cariai.com/img/tecnicarnes/1051059SalmonNatural.jpg",
-        "category_link": "NA"
-    },
-    {
-        "category": "Pescado",
-        "code": "1051058",
-        "product_name": "Atún",
-        "web_name": "Atún Natural Pietrán por 420 grms",
-        "web_description": "Atún Natural Pietrán por 420 grms",
-        "portion": "NA",
-        "quantity_portion": "NA",
-        "normal_price": "37.000",
-        "offer": "SI",
-        "discount_price": "29.600",
-        "percentagle_offer": "20%",
-        "product_link": "https://cariai.com/img/tecnicarnes/1051058AtunNatural.jpg",
         "category_link": "NA"
     },
     {
