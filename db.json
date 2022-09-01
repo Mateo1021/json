@@ -161,19 +161,19 @@
         "category_link": "https://flipcat-prod.s3.amazonaws.com/flipcat-store/20211201033153/Iconos categorias portafolio Tecnicarnes-02.jpg"
     },
     {
-        "order":"9",
-        "category": "Cerdo",
-        "code": "1000140",
-        "product_name": "Cañon Entero",
-        "web_name": "Cañon Entero",
-        "web_description": "Producto proveniente del lomo de cerdo.",
-        "portion": "Entera",
-        "quantity_portion": "Entera",
-        "normal_price": "88.800",
+        "order":"11",
+        "category": "Res",
+        "code": "2003863",
+        "product_name": "Lengua",
+        "web_name": "Lengua Res Empacada al Vacío x 500 grms aprox",
+        "web_description": "Lengua Res",
+        "portion": "Paquete por 500 grms aprox",
+        "quantity_portion": "2;4;8",
+        "normal_price": "10.400",
         "offer": "NO",
         "discount_price": null,
         "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/1000140CanonEntero.jpg",
+        "product_link": "https://cariai.com/img/tecnicarnes/2003863Lengua.jpg",
         "category_link": "NA"
     },
     {
@@ -183,8 +183,8 @@
         "product_name": "Lengua",
         "web_name": "Lengua Res Empacada al Vacío x 500 grms aprox",
         "web_description": "Lengua Res",
-        "portion": "Paquete por 500 grms aprox",
-        "quantity_portion": "NA",
+        "portion": "filete",
+        "quantity_portion": "1;2;3;4",
         "normal_price": "10.400",
         "offer": "NO",
         "discount_price": null,
@@ -192,21 +192,21 @@
         "product_link": "https://cariai.com/img/tecnicarnes/2003863Lengua.jpg",
         "category_link": "NA"
     },
-    {
-        "order":"12",
+   {
+        "order":"11",
         "category": "Res",
-        "code": "2003853",
-        "product_name": "Hígado",
-        "web_name": "Hígado Empacado al Vacío por 500 grms aprox",
-        "web_description": "Higado Res",
-        "portion": "Paquete por 500 grms aprox",
-        "quantity_portion": "NA",
-        "normal_price": "8.975",
+        "code": "2003863",
+        "product_name": "Lengua",
+        "web_name": "Lengua Res Empacada al Vacío x 500 grms aprox",
+        "web_description": "Lengua Res",
+        "portion": "Entera",
+        "quantity_portion": "Entera",
+        "normal_price": "10.400",
         "offer": "NO",
         "discount_price": null,
         "percentagle_offer": "0%",
-        "product_link": "https://cariai.com/img/tecnicarnes/2003853Higado.jpg",
-        "category_link": "https://flipcat-prod.s3.amazonaws.com/flipcat-store/20211201033221/Iconos categorias portafolio Tecnicarnes-01.jpg"
+        "product_link": "https://cariai.com/img/tecnicarnes/2003863Lengua.jpg",
+        "category_link": "NA"
     }
 ]
 }
