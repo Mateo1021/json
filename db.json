@@ -10,9 +10,9 @@
         "portion": "unidad",
         "quantity_portion": "1;2",
         "normal_price": "11.700",
-        "offer": "NO",
-        "discount_price": null,
-        "percentagle_offer": "0%",
+        "offer": "SI",
+        "discount_price": "10.700",
+        "percentagle_offer": "20%",
         "product_link": "https://cariai.com/img/tecnicarnes/2014921Guacamole.jpg",
         "category_link": "https://flipcat-prod.s3.amazonaws.com/flipcat-store/20211201033235/Iconos categorias portafolio Tecnicarnes-06.jpg"
     },
