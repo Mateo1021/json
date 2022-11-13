@@ -49,6 +49,21 @@
 	      "ABREVIATURA2":"BACAF",
          "SINONIMOS":"ESTUDIO DE COLORACIÓN BASICA EN CITOLOGIA POR ASPIRACIÓN DE CUALQUIER TEJIDO U ÓRGANO (BACAF)"
      }
-]
+],
+	"898003": [
+	      {
+		 "CUPS":898003,
+		 "EXAMEN":"BACAF",
+		 "CONDICIONES":"Tenga en cuenta que, para realizar el examen, debe presentarse el mismo día en que le han tomado la muestra, lo más pronto posible (idealmente en menos de 2 horas).",
+		 "TARIFA":"PENDIENTE",
+		 "HORAD":"10:00:00",
+		 "HORAH":"10:00:00",
+		 "DOMICILIO ":"NO",
+		 "DIAS":"Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo",
+		 "ABREVIATURA":"BACAF",
+		 "ABREVIATURA2":"BACAF",
+		 "SINONIMOS":"ESTUDIO DE COLORACIÓN BASICA EN CITOLOGIA POR ASPIRACIÓN DE CUALQUIER TEJIDO U ÓRGANO (BACAF)"
+	      }
+	]
    
 }
