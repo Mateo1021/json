@@ -1,6 +1,6 @@
 {
    "info": [
-   [
+   
     {
         "code_product": "1234560",
         "name_product": "SALCHICHA RANCHERA X 3 UDS",
@@ -46,7 +46,7 @@
         "type_client": "TD",
         "url_image": "[\"https:\\/\\/storage.googleapis.com\\/pibox\\/atun\\/barras\\/bistro\\/5555555555555\\/5555555555555_A9C1.png\",\"https:\\/\\/storage.googleapis.com\\/pibox\\/atun\\/barras\\/bistro\\/5555555555555\\/5555555555555_A1C1.png\",\"https:\\/\\/storage.googleapis.com\\/pibox\\/atun\\/barras\\/bistro\\/5555555555555\\/5555555555555_A1C0.png\",\"https:\\/\\/storage.googleapis.com\\/pibox\\/atun\\/barras\\/bistro\\/5555555555555\\/5555555555555_H1C1.png\",\"https:\\/\\/storage.googleapis.com\\/pibox\\/atun\\/barras\\/bistro\\/5555555555555\\/5555555555555_A1C1-1.png\"]"
     }
-]
+
 	]
    
 }
